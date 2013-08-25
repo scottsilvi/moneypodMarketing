@@ -35,7 +35,7 @@
 	   
 	  #head-top {
 	  position:relative;
-		background:#0968A1;
+		background:#FC8B00;
 		padding-top:0px;
 		padding-bottom:0px;
 		margin-top:-60px;
@@ -103,12 +103,12 @@
 	  ===========================*/
 	  
 	#Section-1{
-	background:#00B157;
+	background:#FC3D00;
 	color:#fff;
 	}
 	  
 	  #Section-2{
-		background:#FC3D00;
+		background:#00B157;
 		color:#fff;
 	  }
 	  
@@ -272,7 +272,7 @@
 		min-height: 60px;
 		padding-right: 20px;
 		padding-left: 20px;
-		background: #FC8B00;
+		background: #0968A1;
 		background-image: none;
 		background-repeat: repeat-x;
 		border: none;
